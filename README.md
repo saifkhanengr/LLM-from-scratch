@@ -3,7 +3,7 @@ In this repo, we will go through all the math and code from scratch of a Large L
 * The `Notebook.ipynb` file walks you through everything step by step from scratch.
 * The `utils.py` file contains the same essential code as the notebook, but organized in one place for convenience.
 
-Below is what will be covered in the `Notebook.ipynb` (with math and code):
+Below is what is covered in the `Notebook.ipynb` (with math and code):
 
 1. **Text to Token IDs:**
 2. **Token IDs to Token Embeddings:**
