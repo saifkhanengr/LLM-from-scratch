@@ -1,7 +1,7 @@
 In this repo, we will go through all the math and code from scratch of a Large Language Model (specifically DeepSeek V3).
 
 * The `Notebook.ipynb` file walks you through everything step by step from scratch.
-* The utils.py file contains the same essential code as the notebook, but organized in one place for convenience.
+* The `utils.py` file contains the same essential code as the notebook, but organized in one place for convenience.
 
 Below is what will be covered in the `Notebook.ipynb` (with math and code):
 
