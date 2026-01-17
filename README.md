@@ -2,6 +2,7 @@ In this repo, we will go through all the math and code from scratch of a Large L
 
 * The `Notebook.ipynb` file walks you through everything step by step from scratch.
 * The `utils.py` file contains the same essential code as the notebook, but organized in one place for convenience.
+* The `ChatSPE` folder contains three files: `app.py`, `model.py`, and `requirements.txt` (and forth file would be model), all are used for production. For all the glory details, see Section 13 in the `Notebook.ipynb`.
 
 Below is what is covered in the `Notebook.ipynb` (with math and code):
 
@@ -20,3 +21,4 @@ Below is what is covered in the `Notebook.ipynb` (with math and code):
 10. **Autoregressive Text Generation**
 11. **Fine-Tuning the Model**
 12. **Chat with your Model (Q&A)**
+13. **Deploying Model to Production**
